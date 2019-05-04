@@ -13,5 +13,5 @@ la pantalla principal cuenta con una contraseña por defecto, también se da la 
 #La pantalla secundaria es el núcleo de todo, aquí se ingresa a cada uno de los productos que se quiere cotizar.
 
 
-© Desarrollada por [Flikimax](http://www.flikimax.com).
+© Desarrollada por [Flikimax](http://flikimax.com/historial-proyectos/).
 
